@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e29ce2ae-1761-4575-bbe7-6d8d66199c02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DBeaver.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Insomnia.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node.js.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL Shell (psql).lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sourcetree.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../XAMPP Control Panel.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZET 9.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/data/blogapp.trace.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/SpringBootBlogApllicationApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/config/SeedDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/config/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/controlles/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/controlles/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/controlles/PostController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/controlles/RegisterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/models/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/models/Authority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/models/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/repository/AccountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/repository/AuthorityRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/repository/PostRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/services/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/services/MyUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/java/com/example/springbootblogapllication/services/PostService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/resources/templates/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/resources/templates/Post_Edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/resources/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/resources/templates/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/resources/templates/post_new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/main/resources/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-blog-apllication/src/test/java/com/example/springbootblogapllication/SpringBootBlogApllicationApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$рар 31.07.21 Авто.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2GJeBd1T2xxgxSdwG2eGXkDWzmP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e29ce2ae-1761-4575-bbe7-6d8d66199c02" name="Default Changelist" comment="" />
+      <created>1666110982418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666110982418</updated>
+      <workItem from="1666110984510" duration="11286000" />
+      <workItem from="1666190067107" duration="802000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
